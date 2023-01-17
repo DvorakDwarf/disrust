@@ -15,6 +15,6 @@ Press enter to open a server and view channels or send a message if you are in e
 Press q to quit the app
 
 
-Feel free to use this code however you like (As long as the license remains GPL 3.0) for reference on how to interact with discord's API and specifically gateway, it was a pain in the ass to setup.
+Feel free to modify this code however you like (As long as the license remains GPL 3.0) or use for reference on how to interact with discord's API and specifically gateway, it was a pain in the ass to setup.
 
 Finish over lunch
