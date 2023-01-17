@@ -1,0 +1,19 @@
+[package]
+name = "disrust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = { version = "0.11.13", features = ["json", "blocking"] }
+tokio = { version = "1", features = ["full"] }
+tokio-tungstenite = { version = "0.18.0", features = ["native-tls"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0.89"
+chrono = "0.4.23"
+url = "2.2.2"
+
+tui = "0.19"
+crossterm = "0.25"
+anyhow = "1.0.68"
