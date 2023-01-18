@@ -24,8 +24,13 @@ I made it mostly to get better at Rust and because it's fun to work on a larger 
 The use of this app is very much not kosher according to discord's TOS. I do not recommend using it seriously.
 </details>
 
+# Installation
+- You need to have Rust and cargo installed in order to compile the code
+- Download the code in .zip or ```git clone``` it wherever you like
+- Go into that directory and run ```cargo run```
+- Paste your user token in when the program prompts for it. If you don't know what that is, look up a video on youtube or smthn
+
 # Controls
-- Paste your user token in when the program prompts it. If you don't know what that is, look up a video on youtube or smthn
 - Use arrows to navigate.
 - Press ```e``` to enter editing mode and ```esc``` to leave it
 - Press ```enter``` to open a server and view channels or send a message if you are in editing mode
