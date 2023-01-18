@@ -25,6 +25,7 @@ The use of this app is very much not kosher according to discord's TOS. I do not
 </details>
 
 # Controls
+- Paste your user token in when the program prompts it. If you don't know what that is, look up a video on youtube or smthn
 - Use arrows to navigate.
 - Press ```e``` to enter editing mode and ```esc``` to leave it
 - Press ```enter``` to open a server and view channels or send a message if you are in editing mode
