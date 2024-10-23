@@ -18,7 +18,7 @@ I made it mostly to get better at Rust and because it's fun to work on a larger 
 # Now, you might be asking yourself:
 
 <details>
-<summary><b>But is this legal ?</b></summary>
+<summary><b>But is this aligned with TOS ?</b></summary>
 <b>No.</b>
 
 The use of this app is very much not kosher according to discord's TOS. I do not recommend using it seriously.
