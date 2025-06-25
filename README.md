@@ -7,9 +7,7 @@
 # What is this ?
 Disrust is a TUI discord client written entirely in glorious Rust. It works*. 
 
-The app is not fully feature complete. It's missing a lot of discord features, but the basics like navigating between servers, viewing channels, sending messages, etc are there. I might eventually come back to clean up code and make it fancier. 
-
-It's not fully complete because I really badly wanted to move on to my "infinite storage glitch" project idea and because every 10 minutes spent on doing anything UI related is shaving off at least a year of my lifespan each time.
+The app is not fully feature complete. It's missing a lot of discord features, but the basics like navigating between servers, viewing channels, sending messages, etc are there.
 
 I made it mostly to get better at Rust and because it's fun to work on a larger project for once. 
 
